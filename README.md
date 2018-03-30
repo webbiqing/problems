@@ -1,2 +1,3 @@
 # problems
-给我的凤凤小可爱处理 问题
+npm  i
+npm run dev
